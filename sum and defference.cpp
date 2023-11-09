@@ -10,8 +10,8 @@ int main() {
     cout<<"b=";
     cin>>b;
     sum=a+b;
-    cout<<sum<<endl;
+    cout<<"sum="<<sum<<endl;
     difference=a-b;
-    cout<<difference;
+    cout<<"difference="<<difference;
     return 0 ;
 }
