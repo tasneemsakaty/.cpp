@@ -9,6 +9,6 @@ int main() {
     cout <<"w= ";
     cin>>w;
     A=l*w;
-    cout <<A;  
+    cout <<"A= "<<A; 
     return 0;
 }
